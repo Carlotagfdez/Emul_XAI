@@ -1,0 +1,15 @@
+{
+  "project_root": "/gpfs/projects/meteo/WORK/garciafdez/Emul_XAI",
+  "deep4downscaling_repo": "/gpfs/projects/meteo/WORK/garciafdez/repodeep4DS/deep4downscaling",
+  "data_input": "/gpfs/projects/meteo/WORK/garciafdez/Emul_XAI/data/input",
+  "models": "/gpfs/projects/meteo/WORK/garciafdez/Emul_XAI/models",
+  "preds": "/gpfs/projects/meteo/WORK/garciafdez/Emul_XAI/data/preds",
+  "experiments": "/gpfs/projects/meteo/WORK/garciafdez/Emul_XAI/experiments",
+  "asym_parameters": "/gpfs/projects/meteo/WORK/garciafdez/Emul_XAI/data/asym_parameters",
+  "predictor_nc": "/gpfs/projects/meteo/WORK/garciafdez/Emul_XAI/data/input/ERA5_NorthAtlanticRegion_1-5dg_full.nc",
+  "predictand_nc": "/gpfs/projects/meteo/WORK/garciafdez/Emul_XAI/data/input/pr_AEMET.nc",
+  "figures": "/gpfs/projects/meteo/WORK/garciafdez/Emul_XAI/figures",
+  "gcm_raw": "/gpfs/projects/meteo/WORK/garciafdez/data_PNACC/CRPS-BasedEnsemble/GCMResults",
+  "gcm_name": "CMCC-CM2-SR5",
+  "gcm_proj": "/gpfs/projects/meteo/WORK/garciafdez/Emul_XAI/data/gcms"
+}

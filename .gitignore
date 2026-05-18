@@ -1,0 +1,16 @@
+*.nc
+*.pt
+*.nc4
+*.npy
+*.ckpt
+*.out
+*.err
+*.pdf
+__pycache__
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+experiments/
+experiments
